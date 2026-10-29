@@ -23,17 +23,6 @@ I'm currently learning how to build useful applications, understand networks, an
 - 🌱 Improving my skills one project at a time
 - 🎯 Goal: become a skilled cybersecurity professional and developer
 
-```bash
-$ whoami
-Swornim Pradhan
-
-$ cat current_focus.txt
-Learning. Building. Testing. Improving.
-
-$ echo $MINDSET
-Stay curious. Think critically. Build responsibly.
-```
-
 ## `> tech_stack`
 
 **Languages & Web Development**
@@ -44,10 +33,6 @@ Stay curious. Think critically. Build responsibly.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-
-**Areas I'm Exploring**
-
-`Cybersecurity` · `Networking` · `Ethical Hacking` · `AI / ML` · `Open Source`
 
 ## `> featured_projects`
 
