@@ -10,7 +10,7 @@
 
 ---
 
-## `whoami`
+## `Who am I`
 
 Hey! I'm **Swornim Pradhan**, an aspiring cybersecurity and software development enthusiast based in New York.
 
